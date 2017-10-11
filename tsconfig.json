@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-	// "noStrictGenericChecks": true,
+	 "noStrictGenericChecks": true,
     "target": "es5",
     "module": "commonjs",
     "moduleResolution": "node",
